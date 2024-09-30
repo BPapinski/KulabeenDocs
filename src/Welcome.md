@@ -1,4 +1,4 @@
-# Kulabeen Discord Bot Website
+# <h1 align="center">Kulabeen Discord Bot Website</h1>
 
 <p align="center">
     <img src="static/WelcomePage/logo.png" width="300px">
