@@ -1,7 +1,8 @@
 # Test Commands
 
-### !EmbedMessage | This comands sends an embed message
+### .test | Sends some message
 
-### !MyFirstCommand | Random Stuff
+### .add (number1) (number2) | Add two numbers together
 
-### !Add | Adds two variables
+### .embed | This comands sends an embed message
+
