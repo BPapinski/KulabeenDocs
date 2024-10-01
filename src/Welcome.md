@@ -13,7 +13,7 @@
   <body>
     <div class="container">
         <div class="header">
-            <h2 align="center">Kulabeen Discord Bot Website</h2>
+            <br>
         </div>
         <div class="logo" align="center">
             <img src="static/WelcomePage/logo.png" width="300px">
