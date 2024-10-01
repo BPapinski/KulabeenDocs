@@ -1,9 +1,3 @@
-## All the slash commands
-
-- [BasicSlashCommands](./BasicSlashCommands.md)
-- [CalculatorSlashCommands](./CalculatorSlashCommands.md)
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,18 +13,12 @@
   </head>
   <body>
     <div class="container">
-        <div class="header">
-            <br>
-        </div>
-        <div class="logo" align="center">
-            <img src="static/WelcomePage/logo.png" width="300px">
-        </div>
         <div class="content">
             <div>
                 <h2>Slash Commands</h2>
-                <ul>
-                    <a href="/SlashCommands.html"><li><h3>BasicSlashCommands</h3><l/i></a>
-                </ul>
+
+- [BasicSlashCommands](./BasicSlashCommands.md)
+- [CalculatorSlashCommands](./CalculatorSlashCommands.md)
             </div>
         </div>
         <div class="footer">
