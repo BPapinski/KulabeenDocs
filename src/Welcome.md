@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -42,5 +40,3 @@
   </body>
   <script src="index.js"></script>
 </html>
-
-
