@@ -7,3 +7,5 @@
 - [Slash Commands](./Commands/Slash/SlashCommands.md)
     - [Basic](./Commands/Slash/BasicSlashCommands.md)
     - [Calculator](./Commands/Slash/CalculatorSlashCommands.md)
+
+    
